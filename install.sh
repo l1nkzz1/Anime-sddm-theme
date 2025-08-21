@@ -11,8 +11,8 @@ function setBackground(){
 	select opt in "${options[@]}";do
 		case $opt in
 			
-			Itachi)
-				cp Asset/itachi.jpg Anime/background.jpg
+			Shinobu)
+				cp Asset/shinobu.png Anime/background.png
 				addtoSys
 				break
 				;;
@@ -57,4 +57,4 @@ function setBackground(){
 
 setBackground			
 
-#https://github.com/shinas101
+#https://github.com/l1nkzz1 forked from https://github.com/shinas101
