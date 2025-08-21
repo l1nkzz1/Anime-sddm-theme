@@ -7,7 +7,7 @@ function addtoSys(){
 			}	
 function setBackground(){
 	printf "Select a Background : \n"
-	options=("Itachi" "Baruto" "solo-leveling" "jujutsu-kaisen" "art-1" "art-2" "forest")
+	options=("Shinobu" "Baruto" "solo-leveling" "jujutsu-kaisen" "art-1" "art-2" "forest")
 	select opt in "${options[@]}";do
 		case $opt in
 			
