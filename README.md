@@ -23,7 +23,7 @@ chmod +x ./install.sh
 sudo ./install.sh
 	eg : sudo ./install.sh
 		Select a Background :
-		1) Itachi
+		1) Shinobu
 		2) Baruto
 		3) solo-leveling
 		4) jujutsu-kaisen
