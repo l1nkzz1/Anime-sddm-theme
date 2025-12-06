@@ -4,7 +4,7 @@
 
 ## Preview :
 - Shinobu
-![Shinobu](Preview/shinobu.png)
+![Shinobu](Asset/shinobu.png)
 
 
 
@@ -25,5 +25,4 @@ sudo ./install.sh
 ```
 ### how to add avatar :
 - Copy your avatar to `/usr/share/sddm/faces/` as \<username\>.face.icon
--   eg: `/usr/share/sddm/faces/jhon.face.icon`
-<!---https://github.com/shinas101
+-   eg: `/usr/share/sddm/faces/linkz.face.icon`
