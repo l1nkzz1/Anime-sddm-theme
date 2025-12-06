@@ -3,15 +3,10 @@
 **A simple anime theme for SDDM**
 
 ## Preview :
-![art-1](Preview/art-1-preview.png)
-- itachi
-![itachi](Preview/itachi-preview.png)
-- baruto
-![baruto](Preview/baruto-preview.png)
-- forest
-![forest](Preview/forest-preview.png)
+- Shinobu
+![Shinobu](Preview/shinobu.png)
 
-[more preview](Preview/PREVIEW.md)
+
 
 ## Installation :
 
@@ -24,13 +19,6 @@ sudo ./install.sh
 	eg : sudo ./install.sh
 		Select a Background :
 		1) Shinobu
-		2) Baruto
-		3) solo-leveling
-		4) jujutsu-kaisen
-		5) art-1
-		6) art-2
-		7) forest
-		#? 1
 		[*]Theme Installed successfully
 
 
