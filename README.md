@@ -1,7 +1,7 @@
 # Anime theme for Sddm
 
 ## **A simple anime theme for SDDM**
-Also used in [GitHub Pages]https://github.com/l1nkzz1/archlinkz-dotfiles
+Also used in [GitHub Pages](https://github.com/l1nkzz1/archlinkz-dotfiles)
 
 
 ## Preview :
